@@ -1,2 +1,2 @@
-view web at: https://github.com/Bao112003/shoes.git
+view web at: https://bao112003.github.io/shoes/
 
